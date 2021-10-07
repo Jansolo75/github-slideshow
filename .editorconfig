@@ -1,6 +1,6 @@
 # EditorConfig is awesome: http://EditorConfig.org
 root = false
-
+git merge --no-ff <branch>
 [*]
 indent_style = tab
 indent_size = 4
